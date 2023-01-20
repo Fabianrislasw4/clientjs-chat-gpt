@@ -1,0 +1,19 @@
+{
+  "name": "clientjs-chat-gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabianrislasw4/clientjs-chat-gpt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabianrislasw4/clientjs-chat-gpt/issues"
+  },
+  "homepage": "https://github.com/Fabianrislasw4/clientjs-chat-gpt#readme"
+}
